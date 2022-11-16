@@ -1105,6 +1105,10 @@ label {
         .address {
             font-size: 15px;
         }
+        .tel-number {
+            font-size: 15px;
+            color:#09192f;
+        }
         /* contacts-smalForm */
         .formContactUs-smalForm {
             width: 90%;
